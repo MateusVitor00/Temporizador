@@ -1,2 +1,2 @@
 # Temporizador ⏱️
-Cronômetro feito com javaScript, html e css
+Cronômetro feito com css, html e javaScript
